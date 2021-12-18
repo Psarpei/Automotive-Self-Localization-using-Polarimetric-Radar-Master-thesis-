@@ -14,7 +14,7 @@
   * **[Daimler AG](https://www.daimler.com/en/)**
 
 ## Work
-<img align="left" width="300" height="" src="https://commons.wikimedia.org/wiki/File:Loc_exp_0724.png">
+<img align="left" width="300" height="" src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Loc_exp_0724.png>
 
 **Abstract**
 The field of autonomous driving has made great progress in recent years,
