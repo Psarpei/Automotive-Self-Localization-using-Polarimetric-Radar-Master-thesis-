@@ -13,10 +13,9 @@
   * **[AISEL - AI Systems Engineering Lab](http://www.ccc.cs.uni-frankfurt.de/)**
   * **[Daimler AG](https://www.daimler.com/en/)**
 
-## Work
+## Abstract
 <img align="left" width="500" height="" src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Loc_exp_0724.png">
 
-**Abstract**
 The field of autonomous driving has made great progress in recent years,
 including the development of algorithms for self-localization. However,
 localization in areas without satellite reception is still an open research topic.
