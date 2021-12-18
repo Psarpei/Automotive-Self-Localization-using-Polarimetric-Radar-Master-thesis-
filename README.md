@@ -1,5 +1,5 @@
 # Automotive Self Localization using Polarimetric Radar (Master thesis)
-
+This paper is the result of my master thesis, which I did at Daimler AG in the ADAS department in the Radar & Perception (RD/AFC) team.
 ## General Information
 <img align="right" width="300" height="" src="https://upload.wikimedia.org/wikipedia/commons/1/1e/Logo-Goethe-University-Frankfurt-am-Main.svg">
 
